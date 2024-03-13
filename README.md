@@ -33,12 +33,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes (`git commit -am 'Add my feature'`).
 4. Push to the branch (`git push origin feature/my-feature`).
 5. Create a new Pull Request.
-
-## Credits
-
-This project was inspired by the Windows XP interface and was created by [Your Name].
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
